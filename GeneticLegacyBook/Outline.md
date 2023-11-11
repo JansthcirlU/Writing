@@ -1,0 +1,5 @@
+# Genetic Legacy (title subject to change)
+
+Following the tragic loss of their daughter, world-renowned American geneticist Angela Wayne and her husband, Korean-American surgeon Joon-Ho Lee launched the Wayne-Lee Foundation with the goal to further the world of medicine and genetics. The foundation gives grants to talented students in medicine and biology, and with the help of their network and sponsors, they've recently established the Wayne-Lee Institute for Biological Studies, which functions both as a modern university campus for students and as a centralized research hub with a diverse range of laboratory facilities.
+
+Diana, Cate and Art are aspiring students at the Wayne-Lee institute, each pursuing a career following in the footsteps of Wayne and Lee. Their paths unexpectedly cross when they learn that their lives are more connected with their idols than they could've ever imagined...
