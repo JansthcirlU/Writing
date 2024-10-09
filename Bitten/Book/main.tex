@@ -8,15 +8,17 @@
 
 % Front matter
 \frontmatter
+\pagenumbering{gobble}
 \input{FrontMatter/title-page}
-\input{FrontMatter/dedication}
 
 % Main content (chapters)
 \mainmatter
+\pagenumbering{arabic}
 \input{Chapters/the-foreigner}
 
 % Back matter (optional)
 \backmatter
+\pagenumbering{roman}
 \input{backmatter/appendix}
 
 \end{document}
