@@ -2,7 +2,7 @@
 
 ## The Foreigner
 
-Hisayo had boarded the SS Leviathan in Kagoshima on a whim. She had no money, no heavy luggage-nothing to slow her down. All she brought with her was a small handbag. She was determined to leave behind the past and start over. But had not exactly prepared for spending the next two weeks inside a floating prison. The sleeping quarters had no windows, the meal plan was limited to three per day-unless you paid extra-and worst of all, passengers were not allowed to go outside for their own safety. Two weeks of breathing stale air and no moonlight.
+Hisayo had boarded the SS Leviathan in Kagoshima on a whim. She had no money, no heavy luggage - nothing to slow her down. All she brought with her was a small handbag. She was determined to leave behind the past and start over. But had not exactly prepared for spending the next two weeks inside a floating prison. The sleeping quarters had no windows, the meal plan was limited to three per day - unless you paid extra - and worst of all, passengers were not allowed to go outside for their own safety. Two weeks of breathing stale air and no moonlight.
 
 But even within the confines of the vessel, she could sense the change in climate. The Leviathan was not a particularly glamorous steamship. She had been constructed hastily and cheaply, but she was sturdy enough to handle the journey. There was a small gap between the plates that housed Hisayo's quarters which the riveters had neglected to fix up, allowing her to feel the outside air. On the first days of the journey, the air was cool and dry, but now, only hours before arriving in Bangkok, the air felt oppressively humid and hot.
 
