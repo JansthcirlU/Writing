@@ -2,7 +2,7 @@
 
 ## Intro
 
-Joon-Ho Lee is a world-renowned surgeon who, together with his wife Angela, has launched the 
+Joon-Ho Lee is a world-renowned surgeon who, together with his wife Angela, has launched the Wayne-Lee Foundation.
 
 ## Backstory
 
