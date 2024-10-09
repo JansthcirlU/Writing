@@ -15,7 +15,19 @@
 }
 
 % Fonts and styling
-\usepackage{lmodern}         % Font style
+% Default font: lmodern
+% % \usepackage{lmodern}         % Font style
+
+% Alternative fonts for readability (uncomment one to use)
+% % \usepackage{sourcesanspro}  % Source Sans Pro - More readable for dyslexic readers
+% % \usepackage{helvet}         % Helvetica - Clean sans-serif font
+\usepackage{comfortaa}      % Comfortaa - Rounded and easy to read
+% % \usepackage{dyslexie}       % Dyslexie - Specifically designed for dyslexia (may need to be installed)
+% % \usepackage{opendyslexic}   % OpenDyslexic - Popular dyslexia-friendly font (may need to be installed)
+
 \linespread{1.2}             % Line spacing
 \setlength{\parindent}{0pt}  % No paragraph indentation
 \setlength{\parskip}{1em}    % Space between paragraphs
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
